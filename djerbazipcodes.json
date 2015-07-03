@@ -1,0 +1,278 @@
+[
+  {
+    "name":"Aghir",
+    "zip":"4116"
+  },
+  {
+    "name":"Ajim",
+    "zip":"4135"
+  },
+  {
+    "name":"Arkou",
+    "zip":"4176"
+  },
+  {
+    "name":"Bazim",
+    "zip":"4180"
+  },
+  {
+    "name":"Beni Maaguel",
+    "zip":"4126"
+  },
+  {
+    "name":"Bou Smail",
+    "zip":"4135"
+  },
+  {
+    "name":"Cedouikeche",
+    "zip":"4145"
+  },
+  {
+    "name":"Chaouch",
+    "zip":"4135"
+  },
+  {
+    "name":"Cité Ben Issa",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Bou Okkazine",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Erriadh",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Jouamaa",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Ouvriere 1",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Ouvriere 2",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Populaire",
+    "zip":"4135"
+  },
+  {
+    "name":"Cité Populaire",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Sidi El Bahri",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité Sidi Zaied",
+    "zip":"4185"
+  },
+  {
+    "name":"Cité Snit",
+    "zip":"4146"
+  },
+  {
+    "name":"Cité de la Douane",
+    "zip":"4185"
+  },
+  {
+    "name":"Cité de la Police",
+    "zip":"4180"
+  },
+  {
+    "name":"Cité des Enseignants",
+    "zip":"4180"
+  },
+  {
+    "name":"Dar Jerba",
+    "zip":"4199"
+  },
+  {
+    "name":"El Groo",
+    "zip":"4125"
+  },
+  {
+    "name":"El Guebline",
+    "zip":"4155"
+  },
+  {
+    "name":"El Hadadda",
+    "zip":"4116"
+  },
+  {
+    "name":"El Krachoua",
+    "zip":"4145"
+  },
+  {
+    "name":"El May",
+    "zip":"4175"
+  },
+  {
+    "name":"Erriadh",
+    "zip":"4146"
+  },
+  {
+    "name":"Fatou",
+    "zip":"4180"
+  },
+  {
+    "name":"Ghandri",
+    "zip":"4135"
+  },
+  {
+    "name":"Ghizen",
+    "zip":"4156"
+  },
+  {
+    "name":"Guechiine",
+    "zip":"4195"
+  },
+  {
+    "name":"Guellala",
+    "zip":"4155"
+  },
+  {
+    "name":"Hachene",
+    "zip":"4180"
+  },
+  {
+    "name":"Houmet Ben Harzallh",
+    "zip":"4135"
+  },
+  {
+    "name":"Houmet Bou Hastine",
+    "zip":"4135"
+  },
+  {
+    "name":"Houmet El Fahmine",
+    "zip":"4155"
+  },
+  {
+    "name":"Houmet Hazem",
+    "zip":"4175"
+  },
+  {
+    "name":"Houmet Issa",
+    "zip":"4135"
+  },
+  {
+    "name":"Houmet Larbeh",
+    "zip":"4146"
+  },
+  {
+    "name":"Jabira",
+    "zip":"4125"
+  },
+  {
+    "name":"Jamaa El Gaied",
+    "zip":"4116"
+  },
+  {
+    "name":"Jerba",
+    "zip":"4180"
+  },
+  {
+    "name":"Jerba aéroport",
+    "zip":"4120"
+  },
+  {
+    "name":"Khazroun",
+    "zip":"4116"
+  },
+  {
+    "name":"Khenensa",
+    "zip":"4135"
+  },
+  {
+    "name":"Mahboubine",
+    "zip":"4165"
+  },
+  {
+    "name":"Mellita Jerba",
+    "zip":"4115"
+  },
+  {
+    "name":"Methania",
+    "zip":"4150"
+  },
+  {
+    "name":"Mezrane",
+    "zip":"4135"
+  },
+  {
+    "name":"Mezraya",
+    "zip":"4186"
+  },
+  {
+    "name":"Midoun",
+    "zip":"4116"
+  },
+  {
+    "name":"Oualegh",
+    "zip":"4123"
+  },
+  {
+    "name":"Oued Zbib",
+    "zip":"4166"
+  },
+  {
+    "name":"Ouersighen",
+    "zip":"4145"
+  },
+  {
+    "name":"Ouled Amor",
+    "zip":"4113"
+  },
+  {
+    "name":"Robbana",
+    "zip":"4133"
+  },
+  {
+    "name":"Sarandi",
+    "zip":"4182"
+  },
+  {
+    "name":"Sayagh",
+    "zip":"4116"
+  },
+  {
+    "name":"Sedghiane",
+    "zip":"4136"
+  },
+  {
+    "name":"Sidi Mehrez",
+    "zip":"4179"
+  },
+  {
+    "name":"Sidi Yati",
+    "zip":"4116"
+  },
+  {
+    "name":"Sidi Zaied",
+    "zip":"4190"
+  },
+  {
+    "name":"Souani",
+    "zip":"4185"
+  },
+  {
+    "name":"Tafartast",
+    "zip":"4145"
+  },
+  {
+    "name":"Tlet",
+    "zip":"4155"
+  },
+  {
+    "name":"Tomogret",
+    "zip":"4145"
+  },
+  {
+    "name":"Zone Hoteliere",
+    "zip":"4116"
+  }
+]
