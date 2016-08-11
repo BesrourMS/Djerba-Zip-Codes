@@ -1,43 +1,53 @@
 [
   {
     "name":"Aghir",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Ajim",
-    "zip":"4135"
+    "zip":"4135",
+    "del":"2"
   },
   {
     "name":"Arkou",
-    "zip":"4176"
+    "zip":"4176",
+    "del":"1"
   },
   {
     "name":"Bazim",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Beni Maaguel",
-    "zip":"4126"
+    "zip":"4126",
+    "del":"1"
   },
   {
     "name":"Bou Smail",
-    "zip":"4135"
+    "zip":"4135",
+    "del":"2"
   },
   {
     "name":"Cedouikeche",
-    "zip":"4145"
+    "zip":"4145",
+    "del":"1"
   },
   {
     "name":"Chaouch",
-    "zip":"4135"
+    "zip":"4135",
+    "del":"2"
   },
   {
     "name":"Cité Ben Issa",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Bou Okkazine",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Erriadh",
@@ -45,31 +55,38 @@
   },
   {
     "name":"Cité Jouamaa",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Ouvriere 1",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Ouvriere 2",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Populaire",
-    "zip":"4135"
+    "zip":"4135",
+    "del":"2"
   },
   {
     "name":"Cité Populaire",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Sidi El Bahri",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité Sidi Zaied",
-    "zip":"4185"
+    "zip":"4185",
+    "del":"3"
   },
   {
     "name":"Cité Snit",
@@ -77,15 +94,18 @@
   },
   {
     "name":"Cité de la Douane",
-    "zip":"4185"
+    "zip":"4185",
+    "del":"3"
   },
   {
     "name":"Cité de la Police",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Cité des Enseignants",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Dar Jerba",
@@ -101,7 +121,8 @@
   },
   {
     "name":"El Hadadda",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"El Krachoua",
@@ -109,7 +130,8 @@
   },
   {
     "name":"El May",
-    "zip":"4175"
+    "zip":"4175",
+    "del":"1"
   },
   {
     "name":"Erriadh",
@@ -117,7 +139,8 @@
   },
   {
     "name":"Fatou",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Ghandri",
@@ -169,11 +192,13 @@
   },
   {
     "name":"Jamaa El Gaied",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Jerba",
-    "zip":"4180"
+    "zip":"4180",
+    "del":"3"
   },
   {
     "name":"Jerba aéroport",
@@ -181,7 +206,8 @@
   },
   {
     "name":"Khazroun",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Khenensa",
@@ -189,7 +215,8 @@
   },
   {
     "name":"Mahboubine",
-    "zip":"4165"
+    "zip":"4165",
+    "del":"1"
   },
   {
     "name":"Mellita Jerba",
@@ -201,15 +228,18 @@
   },
   {
     "name":"Mezrane",
-    "zip":"4135"
+    "zip":"4135",
+    "del":"2"
   },
   {
     "name":"Mezraya",
-    "zip":"4186"
+    "zip":"4186",
+    "del":"3"
   },
   {
     "name":"Midoun",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Oualegh",
@@ -225,7 +255,8 @@
   },
   {
     "name":"Ouled Amor",
-    "zip":"4113"
+    "zip":"4113",
+    "del":"1"
   },
   {
     "name":"Robbana",
@@ -237,7 +268,8 @@
   },
   {
     "name":"Sayagh",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Sedghiane",
@@ -249,15 +281,18 @@
   },
   {
     "name":"Sidi Yati",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   },
   {
     "name":"Sidi Zaied",
-    "zip":"4190"
+    "zip":"4190",
+    "del":"3"
   },
   {
     "name":"Souani",
-    "zip":"4185"
+    "zip":"4185",
+    "del":"3"
   },
   {
     "name":"Tafartast",
@@ -273,6 +308,7 @@
   },
   {
     "name":"Zone Hoteliere",
-    "zip":"4116"
+    "zip":"4116",
+    "del":"1"
   }
 ]
